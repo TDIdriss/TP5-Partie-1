@@ -1,0 +1,10 @@
+jpa\JpaTest.class
+jpa\dao\UserDao.class
+jpa\dao\FicheDao.class
+jpa\EntityManagerHelper.class
+jpa\domain\Section.class
+jpa\domain\User.class
+jpa\dao\TagDao.class
+jpa\domain\Fiche.class
+jpa\domain\Tags.class
+jpa\dao\SectionDao.class
